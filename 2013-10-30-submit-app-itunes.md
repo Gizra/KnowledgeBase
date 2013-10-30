@@ -11,6 +11,12 @@ This article explain the process to submit and an application to the iTunes App 
 
 ## Create unique App ID
 
+- Open the [Provisioning Portal.](http://developer.apple.com/ios/manage/overview/)
+- Select Identifier
+https://www.evernote.com/shard/s206/sh/f34578b6-1421-463b-9f74-e1891d2f04c0/edac89122ba9b3f520c1e86334c146cb
+- item
+
+
 
 
 
